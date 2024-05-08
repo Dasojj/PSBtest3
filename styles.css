@@ -1,0 +1,12 @@
+#log {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    height: 200px;
+    overflow-y: scroll;
+}
+
+button {
+    margin: 10px;
+    padding: 5px 10px;
+}
